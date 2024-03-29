@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working at @Capgemini
+Currently working at [@Capgemini](https://www.capgemini.com/)
 
 Also working on:
 - AtexosAI: Create business leads with open data
