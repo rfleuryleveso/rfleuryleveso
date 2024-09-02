@@ -4,7 +4,6 @@ Currently working at [@Capgemini](https://www.capgemini.com/)
 
 ## Also working on:
 - An UAV
-- A Roleplay game made with Unreal Engine 5
 - My homelab
 
 ## Past projects
