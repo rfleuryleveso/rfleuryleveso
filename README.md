@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Currently working at [@Capgemini](https://www.capgemini.com/)
+Currently working at @Stormshield
 
 ## Also working on:
 - An UAV
